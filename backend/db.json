@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Cleberson Anthunes",
+      "email": "cleberson@mtools.com"
+    },
+    {
+      "id": 2,
+      "name": "Juanito Barbosa",
+      "email": "jb@mtools.com"
+    },
+    {
+      "name": "Joao Oliveira",
+      "email": "devoliveira@mtools.com",
+      "id": 3
+    }
+  ]
+}
