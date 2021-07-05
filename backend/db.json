@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "name": "Cleberson Anthunes",
+      "name": "Cleberson Albertino",
       "email": "cleberson@mtools.com"
     },
     {
@@ -11,8 +11,8 @@
       "email": "jb@mtools.com"
     },
     {
-      "name": "Joao Oliveira",
-      "email": "devoliveira@mtools.com",
+      "name": "José Alencar",
+      "email": "jose@mtools.com",
       "id": 3
     }
   ]
