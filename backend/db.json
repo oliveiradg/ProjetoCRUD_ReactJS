@@ -1,6 +1,7 @@
 {
   "users": [
     {
+      "id": 1,
       "name": "Cleberson Anthunes",
       "email": "cleberson@mtools.com"
     },
